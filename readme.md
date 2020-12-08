@@ -18,3 +18,5 @@ Para lanzar la aplicación
 La aplicacion se levantara en el puerto 8080, puede acceder desde aqui
 
     http://localhost:8080/swagger-ui.html
+    
+Referencia: Conocimientos laborales previos
